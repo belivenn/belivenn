@@ -20,9 +20,8 @@
 ## 🛠️ Tech Stack
 
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
-![Solana](https://img.shields.io/badge/-Solana-000?&logo=solana)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
-![Anchor](https://img.shields.io/badge/Anchor-black?logo=anchor&logoColor=#00FFBD)
+![Solana](https://img.shields.io/badge/-Solana-000?&logo=solana)
 
 ---
 
