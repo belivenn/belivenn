@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Johnny!
+# 👋  Johnny | Dev @ Devshop Turbin3 Studio
 
 🔧 I'm a developer focused on building robust, secure systems on **Solana**, using **Rust**, and **TypeScript**.  
 🌍 I believe in open-source, modular design, and pushing the limits of decentralized architecture.  
@@ -6,21 +6,23 @@
 
 ---
 
-## 🧪 What I’m Working On
+🧪 **Current Focus**  
 
-- 🧱 Solana smart contracts (Anchor & Pinocchio - Rust)
-- ⚙️ Custom DeFi tools
-- 📦 Testing frameworks for CPI adapters and liquidity protocols
-- 🔒 Custom bonding curves and on-chain accounting logic
-- 👨‍🏫 Teaching assistant for the Solana Turbin3 Builders Cohort
+🧱 Building at **Devshop Turbin3 Studio**  
+- Solana Programs (Anchor & Pinocchio - Rust)  
+- Custom DeFi tools (⚙️ AMMs, liquidity strategies)  
+- Testing frameworks for CPI adapters & protocols (📦 fuzz testing, invariant checks)  
+- Custom bonding curves & on-chain accounting logic (🔒 security-first)  
 
----
+👨‍🏫 **Community**  
+- Teaching Assistant @ Solana Turbin3 Builders Cohort  
 
 ## 🛠️ Tech Stack
 
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
 ![Solana](https://img.shields.io/badge/-Solana-000?&logo=solana)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+![Anchor](https://img.shields.io/badge/Anchor-black?logo=anchor&logoColor=#00FFBD)
 
 ---
 
@@ -31,7 +33,7 @@
 
 ---
 
-## 💡 Interests
+## 💡 Passions
 
 - Blockchain architecture and protocol design  
 - DeFi systems and innovation  
