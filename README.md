@@ -21,7 +21,6 @@
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
 ![Solana](https://img.shields.io/badge/-Solana-000?&logo=solana)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
-![Mocha](https://img.shields.io/badge/-Mocha-000?&logo=mocha)
 
 ---
 
