@@ -25,13 +25,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=belivenn&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belivenn&layout=compact&theme=radical)
-
----
-
 ## 💡 Passions
 
 - Blockchain architecture and protocol design  
