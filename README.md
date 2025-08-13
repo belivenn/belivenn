@@ -1,6 +1,6 @@
 # 👋  Johnny | Dev @ Devshop Turbin3 Studio
 
-🔧 I'm a developer focused on building robust, secure systems on **Solana**, using **Rust**, and **TypeScript**.  
+🔧 I'm a developer focused on building robust, secure systems on **Solana**, using **Rust** and **TypeScript**.  
 🌍 I believe in open-source, modular design, and pushing the limits of decentralized architecture.  
 🧠 Treating work as a mental gym, I love solving complex problems with precision and care.
 
